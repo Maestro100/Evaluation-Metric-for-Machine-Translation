@@ -1,0 +1,4 @@
+pyinstaller -w -F
+
+-w : terminal wont run
+-F single file
